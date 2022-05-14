@@ -1,0 +1,120 @@
+body {
+    font-family: cursive;
+    font-style: normal;
+    color: white;
+    border-radius: 10px;
+    margin: 0;
+    display: block;
+    padding-right: 0px;
+    
+}
+h1, h2 {
+    font-size: 50px;
+}
+/* CONTAINER */
+.container{
+    width: 100%;
+    margin: 0px;
+    background: blueviolet;
+    padding: 0px;
+} 
+
+/* ASKO IMG */
+.asko_img {
+    margin: 0;
+    width: 60px;
+    text-align: left;
+    padding-top: 0;
+}
+/* INFO */
+.info  {
+    margin: 0 ;
+    width: 100%;
+    display: flex;
+    
+}
+/* formi */
+.formi {
+    margin: 0;
+    display: flex;
+    padding: 10px;
+}
+.asko_img,  formi{
+    width:100%;
+    
+}
+
+block_dlya_uroki {
+    
+    text-align: center;
+    background-repeat: no-repeat;
+    display: flex;
+    
+    
+}
+/*voprosik*/
+
+
+/*chto_khotite_izuchat*/
+.chto_khotite_izuchat{
+    margin: 0;
+    text-align: center;
+    
+      
+}
+.chto_khotite_izuchat h1 {
+   text-align: center;
+}
+
+/*inostrannie_yaziki */
+.inostrannie_yaziki {
+    text-align: center;
+    
+}
+
+/*predmeti_shkola*/
+.predmeti_shkola{
+    text-align: center;
+    width: 100%;
+    
+}
+
+
+.list{
+   display: flex;
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.block_dlya_uroki {
+  
+}
+
+/*tip_uroki */
+.tip_uroki {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+
+/* info_o_kursi*/
+.info_o_kursi {
+    text-align: center;
+    
+}
+
+/* ostavte_otziv*/
+.ostavte_otziv{
+    
+}
+
+
+/*podpishites_na_nas */
+.podpishites_na_nas  {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 200px;
+    
+}
